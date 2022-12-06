@@ -1,3 +1,4 @@
 a=2
 b=3
-print("Sum of a and b",a+b)
+print(a+b)
+print(a+b)
